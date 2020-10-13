@@ -7,7 +7,7 @@ https://www.youtube.com/playlist?list=PL6TPenCoJQT201Y3eRvNiHefpEEgb8WXw
 Python Tutorials
 https://www.youtube.com/playlist?list=PL6TPenCoJQT26LtQVjE0dRupMWq1CDkHl
 
-MatlAb Tutorials
+Matlab Tutorials
 https://www.youtube.com/playlist?list=PL6TPenCoJQT2HNs3kR94trkZm1Aa7hv9l
 
 Data Science

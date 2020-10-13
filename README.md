@@ -13,6 +13,9 @@ https://www.youtube.com/playlist?list=PL6TPenCoJQT2HNs3kR94trkZm1Aa7hv9l
 Data Science
 https://www.youtube.com/playlist?list=PL6TPenCoJQT0sxNMPk0JZfcuge1H89sQ_
 
+Machine Learning
+https://www.youtube.com/playlist?list=PL6TPenCoJQT3sebijcK5zGXlWk2Zl8OAT
+
 Mathematics
 https://www.youtube.com/playlist?list=PL6TPenCoJQT2ahOAMGqsjKgf9yCSkLwO0
 

@@ -7,6 +7,9 @@ https://www.youtube.com/playlist?list=PL6TPenCoJQT201Y3eRvNiHefpEEgb8WXw
 Python Tutorials
 https://www.youtube.com/playlist?list=PL6TPenCoJQT26LtQVjE0dRupMWq1CDkHl
 
+Python YOLOv2 Tutorials
+https://www.youtube.com/playlist?list=PL6TPenCoJQT2bnr3Gy4lDOot61wE84yBW                      
+
 Matlab Tutorials
 https://www.youtube.com/playlist?list=PL6TPenCoJQT2HNs3kR94trkZm1Aa7hv9l
 
